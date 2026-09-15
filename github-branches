@@ -1,2 +1,3 @@
-bug-fix-typo d39582a [origin/bug-fix-typo] Fix typo in README 
-* main d39582a [origin/main] Fix typo in README
+* bug-fix-revert 316be9e Add final project CLI evidence
+  bug-fix-typo   d39582a [origin/bug-fix-typo] Fix typo in README
+  main           316be9e [origin/main] Add final project CLI evidence
