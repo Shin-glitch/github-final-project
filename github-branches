@@ -1,3 +1,3 @@
-* bug-fix-revert 316be9e Add final project CLI evidence
+ bug-fix-revert b23eb8e Add bug-fix-revert branch evidence
   bug-fix-typo   d39582a [origin/bug-fix-typo] Fix typo in README
-  main           316be9e [origin/main] Add final project CLI evidence
+* main           b23eb8e [origin/main] Add bug-fix-revert branch evidence
